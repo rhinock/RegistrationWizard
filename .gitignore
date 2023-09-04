@@ -26,6 +26,7 @@ x86/
 [Ww][Ii][Nn]32/
 [Aa][Rr][Mm]/
 [Aa][Rr][Mm]64/
+build/
 bld/
 [Bb]in/
 [Oo]bj/
@@ -72,6 +73,7 @@ StyleCopReport.xml
 *_i.c
 *_p.c
 *_h.h
+*_i.h
 *.ilk
 *.meta
 *.obj
@@ -132,6 +134,8 @@ _ReSharper*/
 *.[Rr]e[Ss]harper
 *.DotSettings.user
 
+# JustCode is a .NET coding add-in
+.JustCode
 # TeamCity is a build add-in
 _TeamCity*
 
@@ -214,6 +218,9 @@ csx/
 ecf/
 rcf/
 
+# Microsoft Azure ApplicationInsights config file
+ApplicationInsights.config
+
 # Windows Store app package directories and files
 AppPackages/
 BundleArtifacts/
@@ -239,6 +246,8 @@ ClientBin/
 *.pfx
 *.publishsettings
 orleans.codegen.cs
+
+/node_modules
 
 # Including strong name files can present a security risk
 # (https://github.com/github/gitignore/pull/2483#issue-259490424)
@@ -396,3 +405,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Angular
+/.angular/cache
