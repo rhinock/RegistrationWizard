@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegistrationWizard", "RegistrationWizard.csproj", "{38A70EA5-A5BD-4951-AC7E-08B011C7CC0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38A70EA5-A5BD-4951-AC7E-08B011C7CC0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38A70EA5-A5BD-4951-AC7E-08B011C7CC0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38A70EA5-A5BD-4951-AC7E-08B011C7CC0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38A70EA5-A5BD-4951-AC7E-08B011C7CC0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D35CE4-850C-4644-A6A0-956C4C946B6E}
+	EndGlobalSection
+EndGlobal
